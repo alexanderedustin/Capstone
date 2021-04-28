@@ -1,3 +1,6 @@
 Inorder to get the data to run this code you will have to download the data seperately as the file size is too large to be uploaded to github. Below is a link to a Google Drive Folder with the way the data should be formated and all the data needed.
 
 https://drive.google.com/drive/folders/1dxvGdMPTtYk5VoNlBhS6_FnqTXdI_bk1?usp=sharing
+
+When running the Video_to_Image.ipynb file, you will have to note the amount of frames your video contains which is shown at the start of the final print out.
+This is because is in the file Frame_Colorizer.ipynb in the 6th cell at the 3rd line you will have to replace the variable frame with the amount of frames in your video.
